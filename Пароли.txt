@@ -1,0 +1,2 @@
+phpMyAdmin (БД) - логин - vins, пароль - отсутствует
+WordPress (Админ) - логин - old.zankowskiy@mail.ru, пароль - 52469719Mir
